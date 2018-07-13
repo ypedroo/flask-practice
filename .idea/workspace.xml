@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9cf1d04-56f0-462b-ae52-bde8ba7547a9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jogoteca/jogoteca.py" beforeDir="false" afterPath="$PROJECT_DIR$/jogoteca/jogoteca.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jogoteca/templates/lista.html" beforeDir="false" afterPath="$PROJECT_DIR$/jogoteca/templates/lista.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jogoteca/templates/novo.html" beforeDir="false" afterPath="$PROJECT_DIR$/jogoteca/templates/novo.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="jogoteca.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jogoteca.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jogoteca/jogoteca.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-264">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="405">
+              <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jogoteca/templates/template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="78" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -25,8 +37,8 @@
       <file leaf-file-name="novo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jogoteca/templates/novo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -34,8 +46,8 @@
       <file leaf-file-name="lista.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jogoteca/templates/lista.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="31" />
+            <state relative-caret-position="238">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -55,9 +67,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/jogoteca/templates/lista.html" />
-        <option value="$PROJECT_DIR$/jogoteca/templates/novo.html" />
         <option value="$PROJECT_DIR$/jogoteca/jogoteca.py" />
+        <option value="$PROJECT_DIR$/jogoteca/templates/novo.html" />
+        <option value="$PROJECT_DIR$/jogoteca/templates/lista.html" />
+        <option value="$PROJECT_DIR$/jogoteca/templates/template.html" />
       </list>
     </option>
   </component>
@@ -162,34 +175,55 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25718608" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32838285" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50226927" side_tool="true" visible="true" weight="0.32838285" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" weight="0.32838285" />
-      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49924356" weight="0.32838285" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.32838285" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" weight="0.32838285" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030257" side_tool="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49924356" weight="0.32838285" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49924356" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.32838285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49848714" weight="0.32838285" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jogoteca/jogoteca.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogoteca/templates/novo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogoteca/templates/lista.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jogoteca/jogoteca.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -211,24 +245,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jogoteca/templates/novo.html">
+    <entry file="file://$PROJECT_DIR$/jogoteca/templates/lista.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="238">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jogoteca/templates/lista.html">
+    <entry file="file://$PROJECT_DIR$/jogoteca/templates/novo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="31" />
+        <state>
+          <caret selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jogoteca/jogoteca.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="405">
+          <caret line="34" column="24" lean-forward="true" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jogoteca/templates/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="78" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
         </state>
       </provider>
     </entry>
